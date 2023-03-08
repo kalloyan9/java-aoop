@@ -1,0 +1,1 @@
+My work from Java AOOP course in Faculty of Mathematics and Informatics.
