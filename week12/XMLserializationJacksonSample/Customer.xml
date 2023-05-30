@@ -1,0 +1,12 @@
+<Customer>
+    <id>1</id>
+    <name>Mighty Pulpo</name>
+    <addresses>
+        <city>austin</city>
+        <state>TX</state>
+    </addresses>
+    <addresses>
+        <city>Hong Kong</city>
+        <state>Hong Kong</state>
+    </addresses>
+</Customer>
