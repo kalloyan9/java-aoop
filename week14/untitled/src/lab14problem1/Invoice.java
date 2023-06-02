@@ -1,4 +1,4 @@
-// Exercise 17.11: Invoice.java
+package lab14problem1;// Exercise 17.11: Invoice.java
 // Invoice class 
 
 public class Invoice 
